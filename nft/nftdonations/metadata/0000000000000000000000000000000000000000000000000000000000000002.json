@@ -1,1 +1,50 @@
-T
+{
+    "image": "https://agusnft.github.io/nft/nftdonations/assets/eth.jpg?w=500&auto=format",
+    "name": "Bitcoin",
+    "description": "Donate 1 ETH? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "external_link": "https://twitter.com/agus_sfd",
+    "animation_url": "https://agusnft.github.io/nft/nftdonations/assets/background.jpg?w=auto&h=auto",
+    "background_color": "800080",
+    "traits": [
+        {
+            "trait_type": "ETH ERC-20",
+            "value": "Accept",
+            "display_type": "BNB BEP-20",
+            "max_value": "1",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "ETH BEP-20",
+            "value": "Accept",
+            "display_type": "ETH BEP-20",
+            "max_value": "1",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "ETH Polygon",
+            "value": "Accept",
+            "display_type": "ETH Polygon",
+            "max_value": "1",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "ETH BEP-20",
+            "value": "none",
+            "display_type": "ETH BEP-20",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "Speed",
+            "value": "5",
+            "display_type": "number",
+            "max_value": 5.0,
+            "trait_count": 0,
+            "order": null
+        }
+    ]
+}
