@@ -1,39 +1,39 @@
 {
-    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/trx.jpg?w=500&auto=format",
-    "name": "TRX Donate",
-    "description": "Donate TRX? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/matic.jpg?w=500&auto=format",
+    "name": "MATIC Donate",
+    "description": "MATIC TRX? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
     "animation_url": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/background.gif?w=auto&h=auto",
     "background_color": "800080",
     "traits": [
         {
-            "trait_type": "Tron Network",
+            "trait_type": "MATIC Polygon",
             "value": "Accept",
-            "display_type": "Tron Network",
+            "display_type": "MATIC Polygon",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "TRX BEP-20",
-            "value": "none",
-            "display_type": "TRX BEP-20",
-            "max_value": "0",
-            "trait_count": null,
-            "order": null
-        },
-        {
-            "trait_type": "TRX ERC-20",
-            "value": "none",
-            "display_type": "TRX ERC-20",
+            "trait_type": "MATIC BEP-20",
+            "value": "Accept",
+            "display_type": "MATIC BEP-20",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "TRX Polygon",
+            "trait_type": "MATIC ERC-20",
+            "value": "Accept",
+            "display_type": "MATIC ERC-20",
+            "max_value": "1",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "MATIC TRC-20",
             "value": "none",
-            "display_type": "TRX Polygon",
+            "display_type": "MATIC TRC-20",
             "max_value": "0",
             "trait_count": null,
             "order": null
