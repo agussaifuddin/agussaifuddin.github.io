@@ -1,21 +1,21 @@
 {
-    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/sol.jpg?w=500&auto=format",
-    "name": "Solane Donate",
-    "description": "Donate SOL? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/trx.jpg?w=500&auto=format",
+    "name": "TRX Donate",
+    "description": "Donate TRX? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
     "animation_url": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/background.gif?w=auto&h=auto",
     "background_color": "800080",
     "traits": [
         {
-            "trait_type": "Solana Network",
+            "trait_type": "Tron Network",
             "value": "Accept",
-            "display_type": "Solana Network",
+            "display_type": "Tron Network",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "SOL BEP-20",
+            "trait_type": "TRX BEP-20",
             "value": "none",
             "display_type": "SOL BEP-20",
             "max_value": "0",
@@ -23,7 +23,7 @@
             "order": null
         },
         {
-            "trait_type": "SOL ERC-20",
+            "trait_type": "TRX ERC-20",
             "value": "none",
             "display_type": "SOL ERC-20",
             "max_value": "0",
@@ -31,7 +31,7 @@
             "order": null
         },
         {
-            "trait_type": "SOL Polygon",
+            "trait_type": "TRX Polygon",
             "value": "none",
             "display_type": "SOL Polygon",
             "max_value": "0",
