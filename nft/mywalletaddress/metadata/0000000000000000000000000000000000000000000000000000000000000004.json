@@ -1,39 +1,39 @@
 {
-    "image": "https://agusnft.github.io/nft/nftdonations/assets/usdt.jpg?w=500&auto=format",
-    "name": "USDT Donate",
+    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/busd.jpg?w=500&auto=format",
+    "name": "BUSD Donate",
     "description": "Donate 1 USDT? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
-    "animation_url": "https://raw.githubusercontent.com/agussaifuddin/agussaifuddin.github.io/main/nft/nftdonations/assets/background.gif?w=auto&h=auto",
+    "animation_url": "https:///agussaifuddin.github.io/main/nft/mywalletaddress/assets/background.gif?w=auto&h=auto",
     "background_color": "800080",
     "traits": [
         {
-            "trait_type": "USDT BEP-2",
+            "trait_type": "BUSD BEP-2",
             "value": "none",
-            "display_type": "USDT BEP-2",
+            "display_type": "BUSD BEP-2",
             "max_value": "0",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "USDT BEP-20",
+            "trait_type": "BUSD BEP-20",
             "value": "Accept",
-            "display_type": "USDT BEP-20",
+            "display_type": "BUSD BEP-20",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "USDT ERC-20",
+            "trait_type": "BUSD ERC-20",
             "value": "Accept",
-            "display_type": "USDT ERC-20",
+            "display_type": "BUSD ERC-20",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "USDT Polygon",
+            "trait_type": "BUSD Polygon",
             "value": "Accept",
-            "display_type": "USDT Polygon",
+            "display_type": "BUSD Polygon",
             "max_value": "1",
             "trait_count": null,
             "order": null
