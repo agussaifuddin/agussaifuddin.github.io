@@ -1,6 +1,6 @@
 {
     "image": "https://agusnft.github.io/nft/nftdonations/assets/eth.jpg?w=500&auto=format",
-    "name": "Bitcoin",
+    "name": "ETH Donate",
     "description": "Donate 1 ETH? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
     "animation_url": "https://agusnft.github.io/nft/nftdonations/assets/background.jpg?w=auto&h=auto",
@@ -9,7 +9,7 @@
         {
             "trait_type": "ETH ERC-20",
             "value": "Accept",
-            "display_type": "BNB BEP-20",
+            "display_type": "ETH BEP-20",
             "max_value": "1",
             "trait_count": null,
             "order": null
