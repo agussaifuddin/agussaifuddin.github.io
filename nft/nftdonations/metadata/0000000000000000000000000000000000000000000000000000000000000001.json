@@ -3,13 +3,13 @@
     "name": "Bitcoin",
     "description": "Donate 1 BTC? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
-    "animation_url": "https://agusnft.github.io/nft/nftdonations/asseta/background.jpg?w=auto&h=auto",
+    "animation_url": "https://agusnft.github.io/nft/nftdonations/assets/background.jpg?w=auto&h=auto",
     "background_color": "800080",
     "traits": [
         {
             "trait_type": "Bitcoin Network",
-            "value": "accept",
-            "display_type": null,
+            "value": "Accept",
+            "display_type": "Bitcoin Network,
             "max_value": "1",
             "trait_count": null,
             "order": null
