@@ -1,40 +1,40 @@
 {
-    "image": "https://agusnft.github.io/nft/nftdonations/assets/btc.jpg?w=500&auto=format",
+    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/eth.jpg?w=500&auto=format",
     "name": "BTC Donate",
-    "description": "Donate 1 BTC? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "description": "Donate ETH? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
-    "animation_url": "https://agusnft.github.io/nft/nftdonations/assets/background.jpg?w=auto&h=auto",
+    "animation_url": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/background.jpg?w=auto&h=auto",
     "background_color": "800080",
     "traits": [
         {
-            "trait_type": "Bitcoin Network",
+            "trait_type": "ETH ERC-20",
             "value": "Accept",
-            "display_type": "Bitcoin Network",
+            "display_type": "ETH ERC-20",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "Bitcoin BEP-2",
+            "trait_type": "ETH BEP-20",
+            "value": "Accept",
+            "display_type": "ETH BEP-20",
+            "max_value": "1",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "ETH TRC-20",
             "value": "none",
-            "display_type": "Bitcoin BEP-20",
+            "display_type": "ETH TRC-20",
             "max_value": "0",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "Bitcoin ERC-20",
-            "value": "none",
-            "display_type": "Bitcoin ERC-20",
-            "max_value": "0",
-            "trait_count": null,
-            "order": null
-        },
-        {
-            "trait_type": "Bitcoin BEP-20",
-            "value": "none",
-            "display_type": "Bitcoin BEP-20",
-            "max_value": "0",
+            "trait_type": "ETH Polygon",
+            "value": "Accept",
+            "display_type": "ETH Polygon",
+            "max_value": "1",
             "trait_count": null,
             "order": null
         },
