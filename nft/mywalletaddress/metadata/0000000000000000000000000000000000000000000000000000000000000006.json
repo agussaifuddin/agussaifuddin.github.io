@@ -1,39 +1,39 @@
 {
-    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/matic.jpg?w=500&auto=format",
-    "name": "MATIC Donate",
-    "description": "MATIC TRX? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/sol.jpg?w=500&auto=format",
+    "name": "Solana Donate",
+    "description": "Donate SOL? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
     "animation_url": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/background.gif?w=auto&h=auto",
     "background_color": "800080",
     "traits": [
         {
-            "trait_type": "MATIC Polygon",
+            "trait_type": "Solana Network",
             "value": "Accept",
-            "display_type": "MATIC Polygon",
+            "display_type": "Solana Polygon",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "MATIC BEP-20",
-            "value": "Accept",
-            "display_type": "MATIC BEP-20",
-            "max_value": "1",
-            "trait_count": null,
-            "order": null
-        },
-        {
-            "trait_type": "MATIC ERC-20",
-            "value": "Accept",
-            "display_type": "MATIC ERC-20",
-            "max_value": "1",
-            "trait_count": null,
-            "order": null
-        },
-        {
-            "trait_type": "MATIC TRC-20",
+            "trait_type": "SOL BEP-20",
             "value": "none",
-            "display_type": "MATIC TRC-20",
+            "display_type": "SOL BEP-20",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "SOL ERC-20",
+            "value": "none",
+            "display_type": "SOL ERC-20",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "SOL BEP-2",
+            "value": "none",
+            "display_type": "SOL BEP-2",
             "max_value": "0",
             "trait_count": null,
             "order": null
