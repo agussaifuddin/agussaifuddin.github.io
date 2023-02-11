@@ -1,9 +1,9 @@
 {
-    "image": "https://agusnft.github.io/nft/nftdonations/assets/matic.jpg?w=500&auto=format",
+    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/matic.jpg?w=500&auto=format",
     "name": "MATIC Donate",
-    "description": "Donate 1 MATIC? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "description": "Donate MATIC? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
-    "animation_url": "https://agusnft.github.io/nft/nftdonations/assets/background.jpg?w=auto&h=auto",
+    "animation_url": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/background.gif?w=auto&h=auto",
     "background_color": "800080",
     "traits": [
         {
