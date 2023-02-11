@@ -1,40 +1,40 @@
 {
-    "image": "https://agusnft.github.io/nft/nftdonations/assets/bnb.jpg?w=500&auto=format",
-    "name": "BNB Donate",
-    "description": "Donate 1 BNB? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/usdt.jpg?w=500&auto=format",
+    "name": "USDT Donate",
+    "description": "Donate USDT? 🥺 That’s very kind of you. Thank you very much! 🙏",
     "external_link": "https://twitter.com/agus_sfd",
-    "animation_url": "https://agusnft.github.io/nft/nftdonations/assets/background.jpg?w=auto&h=auto",
+    "animation_url": "https://agusnft.github.io/nft/mywalletaddress/assets/background.jpg?w=auto&h=auto",
     "background_color": "800080",
     "traits": [
         {
-            "trait_type": "BNB BEP-2",
+            "trait_type": "USDT TRC-20",
             "value": "none",
-            "display_type": "BNB BEP-2",
+            "display_type": "USDT TRC-20",
             "max_value": "0",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "BNB BEP-20",
+            "trait_type": "USDT BEP-20",
             "value": "Accept",
-            "display_type": "BNB BEP-20",
+            "display_type": "USDT BEP-20",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "BNB ERC-20",
+            "trait_type": "USDT ERC-20",
             "value": "Accept",
-            "display_type": "BNB ERC-20",
+            "display_type": "USDT ERC-20",
             "max_value": "1",
             "trait_count": null,
             "order": null
         },
         {
-            "trait_type": "BNB Polygon",
-            "value": "none",
-            "display_type": "BNB Polygon",
-            "max_value": "0",
+            "trait_type": "USDT Polygon",
+            "value": "Accept",
+            "display_type": "USDT Polygon",
+            "max_value": "1",
             "trait_count": null,
             "order": null
         },
