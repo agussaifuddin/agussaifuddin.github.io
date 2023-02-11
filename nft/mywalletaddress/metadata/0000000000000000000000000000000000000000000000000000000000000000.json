@@ -1,1 +1,50 @@
-F
+{
+    "image": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/btc.jpg?w=500&auto=format",
+    "name": "BTC Donate",
+    "description": "Donate BTC? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "external_link": "https://twitter.com/agus_sfd",
+    "animation_url": "https://agussaifuddin.github.io/nft/mywalletaddress/assets/background.jpg?w=auto&h=auto",
+    "background_color": "800080",
+    "traits": [
+        {
+            "trait_type": "BTC Network",
+            "value": "Accept",
+            "display_type": "BTC Network",
+            "max_value": "1",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "BTC BEP-20",
+            "value": "none",
+            "display_type": "BTC BEP-20",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "BTC ERC-20",
+            "value": "none",
+            "display_type": "BTC ERC-20",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "BTC Polygon",
+            "value": "none",
+            "display_type": "BTC Polygon",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "Speed",
+            "value": "5",
+            "display_type": "number",
+            "max_value": 5.0,
+            "trait_count": 0,
+            "order": null
+        }
+    ]
+}
