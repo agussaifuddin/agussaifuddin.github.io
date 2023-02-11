@@ -1,1 +1,50 @@
-D
+{
+    "image": "https://agusnft.github.io/nft/nftdonations/assets/0.jpg?w=500&auto=format",
+    "name": "Bitcoin",
+    "description": "Donate 1 BTC? 🥺 That’s very kind of you. Thank you very much! 🙏",
+    "external_link": "https://twitter.com/agus_sfd",
+    "animation_url": "https://agusnft.github.io/nft/nftdonations/asseta/background.jpg?w=auto&h=auto",
+    "background_color": "800080",
+    "traits": [
+        {
+            "trait_type": "Bitcoin Network",
+            "value": "accept",
+            "display_type": null,
+            "max_value": "1",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "Bitcoin BEP-2",
+            "value": "none",
+            "display_type": "Bitcoin BEP-20",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "Bitcoin ERC-20",
+            "value": "none",
+            "display_type": "Bitcoin ERC-20",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "Bitcoin BEP-20",
+            "value": "none",
+            "display_type": "Bitcoin BEP-20",
+            "max_value": "0",
+            "trait_count": null,
+            "order": null
+        },
+        {
+            "trait_type": "Speed",
+            "value": "5",
+            "display_type": "number",
+            "max_value": 5.0,
+            "trait_count": 0,
+            "order": null
+        }
+    ]
+}
