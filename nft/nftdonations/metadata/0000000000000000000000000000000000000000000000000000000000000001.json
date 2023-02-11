@@ -9,7 +9,7 @@
         {
             "trait_type": "Bitcoin Network",
             "value": "Accept",
-            "display_type": "Bitcoin Network,
+            "display_type": "Bitcoin Network",
             "max_value": "1",
             "trait_count": null,
             "order": null
